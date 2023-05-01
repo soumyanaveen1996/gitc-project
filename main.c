@@ -1,0 +1,6 @@
+main(){
+biggest();
+reverse();
+factorial();
+}
+
